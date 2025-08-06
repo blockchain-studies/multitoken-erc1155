@@ -1,3 +1,13 @@
+# Compiler files
+cache/
+out/
+
+# Ignore all broadcast logs and folders
+broadcast/
+
+# Docs
+docs/
+
 # Remix compiler artifacts
 **/artifacts/
 **/artifacts/**
