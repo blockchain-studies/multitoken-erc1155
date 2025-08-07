@@ -16,14 +16,14 @@ https://book.getfoundry.sh/
 ## Usage
 
 ### Install Foundry
-https://getfoundry.sh/introduction/installation
+- https://getfoundry.sh/introduction/installation
 
 ### Create Project
 - https://getfoundry.sh/guides/project-setup/creating-a-new-project
 - `forge init . --force`
 
 ### Install Dependencies
-- forge install OpenZeppelin/openzeppelin-contracts
+- `forge install OpenZeppelin/openzeppelin-contracts`
 
 ### Build
 
