@@ -22,6 +22,9 @@ https://getfoundry.sh/introduction/installation
 - https://getfoundry.sh/guides/project-setup/creating-a-new-project
 - `forge init . --force`
 
+### Install Dependencies
+- forge install OpenZeppelin/openzeppelin-contracts
+
 ### Build
 
 ```shell
